@@ -23,7 +23,7 @@ First, create a virtual environment using Conda, clone this repository to your l
 ```bash
 conda create -n halovggt python=3.10
 conda activate halovggt
-git clone git@github.com:WangxuelingM/HALO-VGGT.git
+git clone git@github.com:Shirleyyy1002/HALO-VGGT.git
 cd halovggt
 pip install -r requirements.txt
 ```
